@@ -11,6 +11,9 @@ Overall views:
 ![image](https://user-images.githubusercontent.com/21281736/110042209-6f4b7980-7d13-11eb-8534-7a3b565ef5d3.png)
 ![image](https://user-images.githubusercontent.com/21281736/110042428-c3eef480-7d13-11eb-9d95-84d6f392ac27.png)
 
+Caliper Steering: 
+![image](https://user-images.githubusercontent.com/21281736/110042610-07e1f980-7d14-11eb-91ad-a06927847da3.png)
+
 Rotary Encoder: 
 ![image](https://user-images.githubusercontent.com/21281736/110042260-85f1d080-7d13-11eb-9134-485089ba8986.png)
 
