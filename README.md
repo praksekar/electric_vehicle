@@ -3,6 +3,8 @@ Code for my Electric Vehicle Science Olympiad event
 
 This vehicle won 1st place at the 2018 MIT invitationals and the 2018 Eastern Long Island Regional Final. It also got 2nd place at the 2018 UPenn invitational.
 
+Here's a video of it performing at the 2018 Eastern Long Island Regional Final: https://www.youtube.com/watch?v=A2Euegb3qQg
+
 Here are some pictures!
 
 Overall views:
@@ -22,4 +24,3 @@ Motor Shield for Arduino:
 ![image](https://user-images.githubusercontent.com/21281736/110042317-9dc95480-7d13-11eb-8cd4-e08c8727b2c0.png)
 
 
-Here's a video of it performing at the 2018 Eastern Long Island Regional Final: https://www.youtube.com/watch?v=A2Euegb3qQg
